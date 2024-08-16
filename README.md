@@ -15,8 +15,6 @@ There were a large number of different CSV files used in this analysis, ranging 
 Loads CSV files from Data folder.
 ### clean_data.R
 Cleans relevant data for use in EDA/models.
-### scrape_madden_ratings.R
-Script to scrape Madden 25 Ratings from https://www.maddenratings.com/.
 ### load_average_madden_ratings.R
 Loads dataset containing Average Madden Ratings in Years 3-5 for all draft picks. This was the metric used to define success for a player in the NFL.
 ### draft_curve_functions.R
