@@ -39,4 +39,4 @@ Resampling of 2012-2021 NFL Drafts to determine significance of difference in co
 ## Charts
 Organized into two main folders: 
 - "Madden Ratings" contains some EDA on player Madden Ratings, including year-over-year differences and distributions depending on roster type (Active/Inactive),
-- "Draft Curves" containing most of the main results from the analysis.
+- "Draft Curves/Average Madden Ratings" containing most of the main results from the analysis.
