@@ -2,7 +2,8 @@
 This was my main project during my summer internship at the NFL with the Football Data & Analytics department. The goals were to:
 - use historical data from 2012 onwards to determine which positions have been historically drafted worse than others in the NFL Draft, and 
 - analyze what, if anything, could be improved about the NFL Combine process.
-\n
+
+
 This repository contains:
 - a selection of code scripts used during the analysis,
 - a selection of charts created as part of the analysis,
