@@ -1,13 +1,14 @@
 # NFL Draft Analysis Project - Overview
 This was my main project during my summer internship at the NFL with the Football Data & Analytics department. The goals were to:
 - use historical data from 2012 onwards to determine which positions have been historically drafted worse than others in the NFL Draft, and 
-- analyze what, if anything, could be improved about the NFL Combine process.\n
+- analyze what, if anything, could be improved about the NFL Combine process.
+\n
 This repository contains:
 - a selection of code scripts used during the analysis,
 - a selection of charts created as part of the analysis,
 - a PowerPoint summarizing the findings.
 Below is one of the many charts produced from this analysis, along with detailed explanations of each aspect of the project.
-![Spaghetti Plot](draft_curves_by_position.png)
+![Draft Curves by Position](draft_curves_by_position.png)
 
 ## Data
 There were a large number of different CSV files used in this analysis, ranging from basic player information to PFF Grades and Madden Ratings. None of the CSV files could be uploaded as they contain sensitive information.
