@@ -9,6 +9,8 @@ This repository contains:
 - a selection of charts created as part of the analysis,
 - a PowerPoint summarizing the findings.
 Below is one of the many charts produced from this analysis, along with detailed explanations of each aspect of the project.
+
+
 ![Draft Curves by Position](draft_curves_by_position.png)
 
 ## Data
